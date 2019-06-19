@@ -1,2 +1,2 @@
 #!/bin/bash
-echo grep [:lower:] $((26 ** 2 -1)) [a-z]
+grep [a..z] [a..z] | ls -l | 

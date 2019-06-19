@@ -1,2 +1,2 @@
 !/bin/bash
-ecjo 'ibase=10; obase=2; $BINARY'
+set $BINARY |
