@@ -1,2 +1,0 @@
-#!/bin/bash
-grep [a..z] [a..z] | ls -l | 

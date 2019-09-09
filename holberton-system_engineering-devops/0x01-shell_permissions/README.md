@@ -1,1 +1,0 @@
-In this project, I go into shell permissios

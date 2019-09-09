@@ -1,1 +1,0 @@
-In this project, I learn about init files, variables and expansions.
