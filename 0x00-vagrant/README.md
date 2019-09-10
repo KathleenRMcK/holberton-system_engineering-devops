@@ -1,0 +1,1 @@
+In this project, students familiarize themselves with vagrant and the virtual machine.

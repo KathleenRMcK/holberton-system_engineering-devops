@@ -1,0 +1,1 @@
+In this project, students learn the basics of vagrant, emacs, vi and git and set up foundations for all upcoming projects.
