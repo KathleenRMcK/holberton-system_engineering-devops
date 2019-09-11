@@ -1,0 +1,1 @@
+In this project, students refine their skills of navigating around the shell.
