@@ -1,4 +1,4 @@
-In this project, students refine their skills of navigating around the shell.
+commands referenced 
 cd - change working directory
 ls - list contents
 pwd - print working directory
