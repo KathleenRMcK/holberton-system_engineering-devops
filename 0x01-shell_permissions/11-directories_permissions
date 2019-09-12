@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+x find /path/to/base/dir
+chmod a+x */
