@@ -1,0 +1,1 @@
+In this project, students learn how to set permissions for files and directories.
