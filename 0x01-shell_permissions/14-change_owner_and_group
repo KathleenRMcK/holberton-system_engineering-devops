@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty chgrp holberton
+chown -R betty chgrp -R holberton
