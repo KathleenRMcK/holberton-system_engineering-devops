@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --dereference betty _hello chgrp --dereference holberton _hello
+chown -h betty _hello chgrp -h holberton _hello
