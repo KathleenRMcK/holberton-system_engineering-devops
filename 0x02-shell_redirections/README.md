@@ -1,0 +1,1 @@
+In this project, students learn about shell redirections and manipulating the input/output.
