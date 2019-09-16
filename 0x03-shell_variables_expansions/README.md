@@ -1,0 +1,1 @@
+In this project, students learn about variables and special parameters.
