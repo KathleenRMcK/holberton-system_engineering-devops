@@ -1,2 +1,2 @@
 #!/bin/bash
-netstat -nao | ls -a | head -n 11
+netstat -nao | head -n 11
