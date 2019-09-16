@@ -1,2 +1,2 @@
 #!/bin/bash
-netstat -nao | head -n 11
+sort | cut -f 1 | uniq -c | head -n 11
