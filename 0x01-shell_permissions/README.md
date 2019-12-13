@@ -1,6 +1,6 @@
 # Description
 In this project, students learn how to set permissions for files and directories.
-# Directories
+# Project Files
 Names | Description
 ------|-----------------------
 0-iam_betty | ***All files contain correct commands***
