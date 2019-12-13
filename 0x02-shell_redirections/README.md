@@ -1,7 +1,7 @@
 # Description
 In this project, students learn about shell redirections and manipulating the input/output.
 
-# Directories
+# Project Files
 Names | Description
 ------|-----------------------
 0-hello_world | ***All files contain correct commands***
