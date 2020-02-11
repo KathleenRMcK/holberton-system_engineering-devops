@@ -1,8 +1,6 @@
 #!/usr/bin/env bash
 # Prints specific listing
 count=0
-list=&(ls)
 for count in *; do
-    echo "$count" | cut -d' ' -f2 | tr -d './'
+    echo "$count" | cut -d' ' -f2
 done
-
