@@ -2,7 +2,7 @@
 # Prints specific listing
 count=0
 list=&(ls)
-for count in $list; do
+for count in *; do
     echo "$count" | cut -d' ' -f2 | tr -d './'
 done
 
