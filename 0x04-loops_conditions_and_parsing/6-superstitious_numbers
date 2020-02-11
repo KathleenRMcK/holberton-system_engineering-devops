@@ -8,3 +8,5 @@ while [ $count -le 20 ]; do
 	   9) echo "bad luck from Japan";;
 	   17) echo "bad luck from Italy";;
       esac
+      let count=count+1
+done
