@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 # Prints specific listing
-for count in $(find ./* | cut -d' ' -f2 | tr -d './'); do
-    echo "$count"
+count=0
+list=&(ls)
+for count in $list; do
+    echo "$count" | cut -d' ' -f2 | tr -d './'
 done
+
