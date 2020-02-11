@@ -1,7 +1,9 @@
-# Description
+# 0x03 - Shell, Init files, Variables and Expansions
+
+### Description
 In this project, students learn about variables and special parameters.
 
-# Project Files
+### Project Files
 Names | Description
 ------|-----------------------
 0-alias | ***All files contain correct commands***
@@ -19,5 +21,5 @@ Names | Description
 101-odd | ^
 102-water_and_stir | ^
 
-# Authors
+### Authors
 Created by Kathleen R McKiernan for Holberton School NHV

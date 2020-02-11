@@ -1,7 +1,9 @@
-# Description
+# 0x00 - Shell Basics
+
+### Description
 In this project, students learn basic shell demands
 
-# Project Files
+### Project Files
 Names | Description
 ------|-----------------------
 0-current_working_directory | ***All files contain correct commands***
@@ -24,7 +26,7 @@ Names | Description
 17-tree | ^
 18-commas | ^
 
-# Commands Referenced
+### Commands Referenced
 - cd - change working directory
 - ls - list contents
 - pwd - print working directory
@@ -40,5 +42,5 @@ Names | Description
 - help - offers assistance in learning
 - man - manual pages
 
-# Authors
+### Authors
 Created by Kathleen R McKiernan for Holberton School NHV

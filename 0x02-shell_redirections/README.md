@@ -1,7 +1,9 @@
-# Description
+# 0x02 - Shell, I/O Redirections and Filters
+
+### Description
 In this project, students learn about shell redirections and manipulating the input/output.
 
-# Project Files
+### Project Files
 Names | Description
 ------|-----------------------
 0-hello_world | ***All files contain correct commands***
@@ -28,5 +30,5 @@ Names | Description
 21-reverse | ^
 22-users_and_homes | ^
 
-# Authors
+### Authors
 Created by Kathleen R McKiernan for Holberton School NHV

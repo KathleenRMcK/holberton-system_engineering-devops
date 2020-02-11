@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+# Print Holberton School x10, 4 prints bad luck, 8 prints good luck
+count=0
+while [ $count -lt 10 ]; do
+      if (( count == 3 )); then
+      	    echo "bad luck"
+      elif (( count == 7 )); then
+      	    echo "good luck"
+      else
+	    echo "Holberton School"
+      fi
+      (( count++ ))
+done

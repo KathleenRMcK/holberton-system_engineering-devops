@@ -1,6 +1,9 @@
-# Description
+# 0x01 - Shell Permissions
+
+### Description
 In this project, students learn how to set permissions for files and directories.
-# Project Files
+
+### Project Files
 Names | Description
 ------|-----------------------
 0-iam_betty | ***All files contain correct commands***
@@ -23,5 +26,5 @@ Names | Description
 100-Star_Wars | Command to play movie in terminal
 101-man_holberton | Create a Holberton Manual
 
-# Authors
+### Authors
 Created by Kathleen R McKiernan for Holberton School NHV
