@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Prints bad luck from around the world
-count=0
+count=1
 while [ $count -le 20 ]; do
       echo "$count"
       case $count in
@@ -8,3 +8,5 @@ while [ $count -le 20 ]; do
 	   9) echo "bad luck from Japan";;
 	   17) echo "bad luck from Italy";;
       esac
+      let count=count+1
+done
