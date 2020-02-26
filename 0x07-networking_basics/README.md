@@ -4,7 +4,8 @@
 In this project, students learn about OSI Models, LAN, WAN, TCP/UDP and what is the Internet.
 
 ### Project Files
-
+Names | Description
+------|-----------------------
 0-OSI_model | What is OSI Model?
 1-types_of_network | What networks are used?
 2-MAC_and_IP_address | What is an address?
