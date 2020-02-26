@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# returns pid
+netstat -pl

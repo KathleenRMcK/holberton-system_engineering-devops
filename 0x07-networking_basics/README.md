@@ -5,12 +5,12 @@ In this project, students learn about OSI Models, LAN, WAN, TCP/UDP and what is 
 
 ### Project Files
 
-0-OSI_model |
-1-types_of_network |
-2-MAC_and_IP_address |
-3-UDP_and_TCP |
-4-TCP_and_UDP_ports |
-5-is_the_host_on_the_network |
+0-OSI_model | What is OSI Model?
+1-types_of_network | What networks are used?
+2-MAC_and_IP_address | What is an address?
+3-UDP_and_TCP | Fill in the blanks
+4-TCP_and_UDP_ports | Displays listening ports
+5-is_the_host_on_the_network | Pings an IP address passed as an arg
 
 ### Authors
 Created by Kathleen R McKiernan for Holberton School NHV
