@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# find bash made easy
+pgrep -l bash

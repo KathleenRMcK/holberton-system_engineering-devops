@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# Add file, print loop, signal text, then remove file
+echo $$ > /var/run/holbertonscript.pid
+trap "rm -f /var/run/holbertonscript.pid; echo I hate the kill command; exit" SIGTERM &&
+trap "rm -f /var/run/holbertonscript.pid; echo Y U no love me?!" SIGINT
+while :
+do
+    echo "To infinity and beyond"
+    sleep 2
+done
