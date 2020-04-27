@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# list current running processes
-ps axu --forest
