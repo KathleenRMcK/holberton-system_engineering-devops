@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
 #Kill script made easy
+pkill -f 4-to_infinity_and_beyond
