@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# Kills your ego boost
-kill -9 "$(pgrep -a -x bash | grep -- ./7-highlander | cut -d' ' -f1)"

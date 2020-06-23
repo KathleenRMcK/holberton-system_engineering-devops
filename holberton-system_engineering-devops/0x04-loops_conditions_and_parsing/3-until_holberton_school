@@ -1,7 +1,0 @@
-#!/usr/bin/env bash
-# Print Holberton School x10
-count=0
-until [ $count -gt 9 ]; do
-      echo "Holberton School"
-      (( count++ ))
-done

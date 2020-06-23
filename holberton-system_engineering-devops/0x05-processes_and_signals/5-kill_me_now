@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# kills infinity loop
-kill "$(pgrep -a -x bash | grep ./4-to_infinity_and_beyond | cut -d' ' -f1)"

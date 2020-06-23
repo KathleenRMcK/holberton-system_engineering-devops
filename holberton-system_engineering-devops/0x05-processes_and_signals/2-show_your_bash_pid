@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# find bash in previous project
-ps axu | grep bash
