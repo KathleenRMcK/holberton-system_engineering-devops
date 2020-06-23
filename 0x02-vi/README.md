@@ -1,1 +1,0 @@
-In this project, students learn how to use the vi text editor.
