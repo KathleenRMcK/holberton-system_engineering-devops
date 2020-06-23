@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-# Print Holberton School x10
-for ((count=0;count<10;count++)); do
-    echo "Holberton School"
-done
