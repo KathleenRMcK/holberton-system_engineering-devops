@@ -1,1 +1,0 @@
-In this project, students familiarize themselves with using emacs.
