@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#Specified listing for project 8
+betty=0
+for betty in *
+do
+    echo "$betty" | cut -d'-' -f2
+done

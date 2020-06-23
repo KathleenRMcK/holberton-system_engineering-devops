@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+#Displays specified from /etc/passwd
+while read betty
+do
+    echo "$betty" | cut -d":" -f1,3,6
+done < /etc/passwd

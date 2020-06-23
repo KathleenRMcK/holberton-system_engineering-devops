@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#Holberton x10 using while
+betty=0
+while [ $betty -le 10 ];
+do
+    echo "Holberton School"
+    let betty=betty+1
+done

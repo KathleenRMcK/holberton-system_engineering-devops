@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+#Holberton x10 with good/bad luck
+betty=0
+while [ $betty -lt 10 ]
+do
+    if (( betty == 3 )); then
+        echo "bad luck"
+    elif (( betty == 7)); then
+        echo "good luck"
+    else
+        echo "Holberton School"
+    fi
+    let betty=betty+1
+done

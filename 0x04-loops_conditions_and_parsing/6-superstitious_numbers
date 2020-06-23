@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+#international superstition
+betty=1
+while [ $betty -le 20 ]
+do
+    echo "$betty"
+    case $betty in
+        4) echo "bad luck from China"
+	;;
+	9) echo "bad luck from Japan"
+	;;
+	17) echo "bad luck from Italy"
+	;;
+    esac
+    let betty=betty+1
+done

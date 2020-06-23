@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+#Holberton x10 and 9 say hi
+betty=0
+while [ $betty -lt 10 ]
+do
+    echo "Holberton School"
+    if (( betty == 8 ))
+then
+	echo "Hi"
+    fi
+    let betty=betty+1
+done

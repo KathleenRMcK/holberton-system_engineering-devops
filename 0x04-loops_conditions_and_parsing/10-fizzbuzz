@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+#Fizzbuzz in bash
+betty=1
+while [ $betty -le 100 ]
+do
+    if [ $((betty%3)) == 0 -a $((betty%5)) == 0 ]
+    then
+	echo "FizzBuzz"
+    elif [ $((betty%3)) == 0 ]
+    then
+	echo "Fizz"
+    elif [ $((betty%5)) == 0 ]
+    then
+	echo "Buzz"
+    else
+	echo $betty
+    fi
+	let betty=betty+1
+done

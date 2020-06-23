@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#Holberton x10 using until
+betty=0
+until [ "$betty" -eq 10 ]
+do
+    echo "Holberton School"
+    let betty=betty+1
+done

@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+#Holberton x10
+for ((betty=0;betty<10;betty++));
+do
+    echo "Holberton School"
+done
