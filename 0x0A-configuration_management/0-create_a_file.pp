@@ -1,6 +1,5 @@
 # Create file in /tmp using Puppet
 
-
 file { '/tmp/holberton':
     path => '/tmp/holberton',
     mode => '0744',
