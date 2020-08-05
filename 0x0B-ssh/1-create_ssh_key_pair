@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# creates an RSA key pair with requirements
+
+ssh-keygen -t rsa -b 4096 -f holberton -P betty
