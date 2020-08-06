@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# run apache and return page containing Hello Holberton
+
+service apache2 restart
