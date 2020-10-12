@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# run in 7 or less
+sudo chmod 404 /etc/nginx/nginx.conf
+sed -i 's/80/8080/g' /etc/nginx/sites-enabled/default
+pkill apache2
+sudo -u nginx service nginx start
