@@ -2,5 +2,5 @@
 # listening on port 80
 sudo apt install curl -y
 sudo sed -i "s/sites-enabled/sites-available/" /etc/nginx/nginx.conf
-sudo pkill nginx
-sudo service nginx restart
+pkill nginx
+service nginx restart
